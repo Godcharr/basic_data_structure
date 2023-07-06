@@ -1,0 +1,5 @@
+/home/godchar/basic_data_structure/build/CMakeFiles/edit_cache.dir
+/home/godchar/basic_data_structure/build/CMakeFiles/rebuild_cache.dir
+/home/godchar/basic_data_structure/build/src/CMakeFiles/main.dir
+/home/godchar/basic_data_structure/build/src/CMakeFiles/edit_cache.dir
+/home/godchar/basic_data_structure/build/src/CMakeFiles/rebuild_cache.dir
